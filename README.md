@@ -1,1 +1,1 @@
-# CodingDojo-Assignments-HTML
+# CodingDojo-Assignments-WebFundamentals
