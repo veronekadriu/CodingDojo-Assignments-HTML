@@ -1,4 +1,4 @@
-//Get 1 to 255 - Write a function that returns an array with all the numbers from 1 to 255.
+//Get 1 to 255 - Write a function that returns an array with all the numbers from 1 to 255
 function numbers(){
      var arr=[];
      for(var i=1; i<256; i++){
